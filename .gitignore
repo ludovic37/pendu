@@ -1,0 +1,19 @@
+# Mac OS
+
+.DS_Store
+._*
+
+# IntelliJ
+
+Pendu.iml
+Pendu2016.iml
+.idea/
+out/
+/bin/
+
+# Eclipse
+
+.project
+.classpath
+.settings/
+bin/
