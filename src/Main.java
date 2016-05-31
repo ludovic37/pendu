@@ -1,4 +1,4 @@
-import IHM.Accueil;
+import ihm.Accueil;
 
 /**
  * Created by Ludovic on 05/05/2016.

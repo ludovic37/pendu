@@ -1,6 +1,6 @@
-package IHM;
+package ihm;
 
-import JeuDuPendu.GameEnginer;
+import jeuDuPendu.GameEnginer;
 
 import javax.swing.*;
 import java.awt.*;

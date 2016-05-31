@@ -1,6 +1,4 @@
-package JeuDuPendu;
-
-import IHM.Fin;
+package jeuDuPendu;
 
 import java.io.IOException;
 

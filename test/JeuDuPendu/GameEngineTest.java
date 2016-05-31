@@ -1,4 +1,4 @@
-package JeuDuPendu;
+package jeuDuPendu;
 
 import org.junit.Test;
 

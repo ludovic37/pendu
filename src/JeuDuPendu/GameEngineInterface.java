@@ -1,4 +1,4 @@
-package JeuDuPendu;
+package jeuDuPendu;
 
 import java.io.IOException;
 

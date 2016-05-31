@@ -1,6 +1,6 @@
-package IHM;
+package ihm;
 
-import JeuDuPendu.GameEnginer;
+import jeuDuPendu.GameEnginer;
 
 import java.awt.*;
 import java.awt.event.MouseEvent;
